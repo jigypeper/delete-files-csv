@@ -11,4 +11,4 @@ Now run the following (on the command prompt):
 
     pyinstaller --onefile -w delete_files.py  
 
-You should now have an exe/dmg file in your home directory  
+You should now have an exe/dmg file in your project directory, the file might be contained in a directory named 'dist'.
